@@ -13,6 +13,7 @@ dist/
 build/
 *.wasm
 
+
 # Cloudflare Workers
 .wrangler/
 wrangler-install.log
